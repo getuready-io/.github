@@ -1,5 +1,3 @@
-![Coding Vibes](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 ### 👋 Welcome to GetUReady
 
 🚀 At GetUReady, we build useful software tools from scratch — some are free for everyone, while others offer powerful premium features.
@@ -14,3 +12,5 @@ Let’s connect to collaborate, build, or grow together.
 
 **Email:** getureadyji@gmail.com  
 **Website:** [www.getuready.com](https://linktr.ee/getuready)
+
+![Coding Vibes](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
