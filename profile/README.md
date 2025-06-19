@@ -8,7 +8,7 @@
 
 Let’s connect to collaborate, build, or grow together.
 
-**Tech we use:** React • Node.js • Express • MongoDB • Tailwind CSS • REST APIs • Git & GitHub
+**Tech we use:** MERN • Java SpringBoot • Next.js • System Design • Data & UI Layer • REST APIs • Git & GitHub
 
 **Email:** getureadyji@gmail.com  
 **Website:** [www.getuready.com](https://linktr.ee/getuready)
