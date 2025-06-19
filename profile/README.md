@@ -1,7 +1,9 @@
 ### 👋 Welcome to GetUReady
 
 🌿 At GetUReady, we build useful software tools from scratch — some are free for everyone, while others offer powerful premium features.
+
 💼 We also provide development services for individuals and businesses looking for custom-built, high-impact solutions.
+
 💡 Passionate about solving real problems through clean code and meaningful technology.
 
 🤝 Let’s connect to collaborate, build, or grow together.
