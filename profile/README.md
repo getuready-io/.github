@@ -51,5 +51,4 @@ Check our projects, raise an issue, or just explore what we’re building.
 
 Let’s build something that actually works — together.
 
-**Email:** getuready@yourdomain.com  
-**Website:** [www.getuready.com](https://www.getuready.com) *(if available)*  
+**Email:** getureadyji@gmail.com  
